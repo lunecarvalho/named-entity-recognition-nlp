@@ -1,4 +1,4 @@
-# Named Entity Recognition (NER) com NLP
+# Reconhecimento de Entidades Nomeadas (NER - Named Entity Recognition) com NLP
 
 Projeto de estudo em **Processamento de Linguagem Natural (NLP)** focado na aplicação de **Named Entity Recognition (NER)** para identificação automática de entidades nomeadas em textos, como pessoas, organizações, locais e datas.
 
